@@ -15,9 +15,6 @@ This Notebook works with different versions of KdUINO:
 *   KduMOD Professional
 *   KduMOD Low-Cost
 
-</br>
-
----
 
 ## Usage
 
@@ -27,6 +24,9 @@ Follow the instructions of the Notebook to analyse your data.
 ## License
 
 [MIT](LICENSE)
+
+</br>
+
 
 <p align="center">
 <img width="150" src="./docs/img_docs/logo.png">
