@@ -1,3 +1,6 @@
+<p align="left">
+<img width="150" src="./docs/img_docs/logo_kduino.png">
+</p>
 <h1><b>KdUINO Data Analysis Notebook</b></h1>
 
 
