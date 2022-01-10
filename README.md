@@ -18,7 +18,7 @@ This Notebook works with different versions of KdUINO:
 
 ## Usage
 
-Click on the [Notebook](https://github.com/Carlos-Rodero/kduino_data_analysis_notebook/blob/main/Kduino_Data_Analysis_Notebook.ipynb) and then go to [open in Colab](https://colab.research.google.com/github/Carlos-Rodero/test_colab/blob/main/Kduino_Data_Analysis_Notebook.ipynb) to open this Notebook into your Google Colab account.
+Click on the [Notebook](https://github.com/Carlos-Rodero/kduino_data_analysis_notebook/blob/main/Kduino_Data_Analysis_Notebook.ipynb) and then go to [open in Colab](https://colab.research.google.com/github/Carlos-Rodero/kduino_data_analysis_notebook/blob/main/Kduino_Data_Analysis_Notebook.ipynb) to open this Notebook into your Google Colab account.
 Follow the instructions of the Notebook to analyse your data.
 
 ## License
